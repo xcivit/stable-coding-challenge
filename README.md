@@ -1,6 +1,6 @@
 # stable-coding-challenge
 
-In this repository you will find Xavier Civit's solution to three problems proposed by the State company to assess its level as a software developer.
+In this repository you will find Xavier Civit's solution to three problems proposed by the [stable](https://www.stableprice.com/) company to assess its level as a software developer.
 
 ## comentarios al revisor
 
