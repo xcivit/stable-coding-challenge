@@ -37,4 +37,4 @@ jobs:
       - name: Black test
         run: |
           . ./.venv/bin/activate 
-          black --check .
+          python -m black --check .
