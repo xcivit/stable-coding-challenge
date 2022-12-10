@@ -6,7 +6,7 @@ In this repository you will find Xavier Civit's solution to three problems propo
 
 I have solved both q1 and q2 without consulting the internet. Their solutions are O(n) and I think they are the most optimal.
 
-The first solution I did for q3 was the greedy one, finally I implemented an O(nW) solution where n is the number of stocks and W is the saving.
+The first solution I did for q3 was the greedy one with O(2^n), finally I implemented an O(nW) solution where n is the number of profitable stocks and W is the saving.
 The algorithm implemented is the 0-1 knapsack based on the Wikipedia pseudocode which I had to [correct](https://en.wikipedia.org/w/index.php?title=Knapsack_problem&diff=1126513814&oldid=1123980612).
 
 ## Repo structure
